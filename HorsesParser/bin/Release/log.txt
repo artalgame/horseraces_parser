@@ -1,0 +1,19 @@
+
+
+
+Start to parsing race
+PARSED: eventTime:14:00
+PARSED: stadiumRacesTime:7
+PARSED: time:14:00
+PARSED: time:14:30
+PARSED: time:15:00
+PARSED: time:15:30
+PARSED: time:16:00
+PARSED: time:16:30
+PARSED: time:17:00
+PARSED: currentRace:
+        <a href="/raceresult?raceId=1.47.1140401.1" class="i13n-sec-country i13n-ltxt-race i13n-tab-TODO-TAG-TAB">
+                        14:00
+        </a>
+                    
+PARSED: raceLink:/raceresult?raceId=1.47.1140401.1

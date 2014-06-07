@@ -1,0 +1,15 @@
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\bin\Debug\HorsesParser.exe.config
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\bin\Debug\HorsesParser.exe
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\bin\Debug\HorsesParser.pdb
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\bin\Debug\JsonExSerializer.dll
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\bin\Debug\Microsoft.Runtime.Serialization.Json.dll
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\MainWindow.baml
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\MainWindow.g.cs
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\App.g.cs
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\HorsesParser_MarkupCompile.cache
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\HorsesParser.g.resources
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\HorsesParser.Properties.Resources.resources
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\HorsesParser.csproj.GenerateResource.Cache
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\HorsesParser.exe
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\obj\Debug\HorsesParser.pdb
+E:\cloud\Google Drive\Projects\Freelance.ru\HorseParsing\HorsesParser\HorsesParser\bin\Debug\HtmlAgilityPack.dll
